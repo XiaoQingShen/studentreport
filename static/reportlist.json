@@ -1,0 +1,27 @@
+{
+	"code":"40001",
+	"content":[
+		{"name":"毕业学校","type":"byxx"},
+		{"name":"录取院校专业","type":"lqyxzy"},
+		{"name":"新生人数","type":"xsrs"},
+		{"name":"行政班级寝室","type":"xzbjqs"},
+		{"name":"注册报到时间","type":"zcbdsj"},
+		{"name":"第一次消费","type":"dycxf"},
+		{"name":"食堂消费偏好","type":"stxfph"},
+		{"name":"食堂消费总额","type":"stxfze"},
+		{"name":"就餐习惯","type":"jcxg"},
+		{"name":"消费偏好","type":"xfph"},
+		{"name":"进馆次数","type":"jgcs"},
+		{"name":"借书量","type":"jsl"},
+		{"name":"违约","type":"wy"},
+		{"name":"综合成绩","type":"zhcj"},
+		{"name":"成绩","type":"cj"},
+		{"name":"获奖","type":"hj"},
+		{"name":"晚归未归","type":"wgwg"},
+		{"name":"违规违纪","type":"wgwj"},
+		{"name":"寝室用水","type":"qsys"},
+		{"name":"个人画像女","type":"grhxgirl"},
+		{"name":"个人画像男","type":"grhxboy"},
+		{"name":"政治面貌","type":"zzmm"}
+	]
+}

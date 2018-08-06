@@ -1,0 +1,44 @@
+	.clear_float{
+		clear: both;
+	}
+	.pages{
+		display: block;
+		font-size: 0.26rem;
+		color: #333333;
+		background-color: #FFFFFF;
+		-webkit-overflow-scrolling: touch;
+	}
+	.paddingtopdiv{
+		height:8.29%;
+	}
+	.speciallabel1{
+		color: #0B99FF!important;
+	}
+	.speciallabel2{
+		color: #DC5C5C!important;
+	}
+	.speciallable3{
+		color: #EA7E53!important;
+	}
+	.speciallable4{
+		color: #60C998!important;
+	}
+	.speciallable5{
+		color: #EA635D!important;
+	}
+	.pages >p{
+		padding-left:0.42rem;
+	}
+	.pages > img{
+		padding-left:0.42rem;
+	}
+	.page_top_img{
+		position: absolute;
+		bottom:0.1rem;
+		left:46%;
+		display: block; 
+		padding:0px!important;
+		animation:arrow 1.2s infinite ease-in-out;
+    	-webkit-animation: arrow 1.2s infinite ease-in-out;
+	}
+	

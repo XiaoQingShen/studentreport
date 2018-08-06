@@ -1,0 +1,32 @@
+@font-face{
+	font-family: 'PingFang SC';
+	src:url('../assets/font/PINGFANG-MEDIUM.ttf');
+}
+@font-face{
+    font-family: 'PingFang Bold';
+    src:url('../assets/font/PingFang-Bold.ttf');
+}
+@media screen and (max-device-width: 375px) {
+  html,body{
+    font-size:100px!important;
+  }
+}
+@media screen and (max-device-width: 320px) {
+  html,body{
+    font-size:90px!important;
+  }
+}
+@-webkit-keyframes arrow {
+	0% {
+	opacity:0;
+	-webkit-transform:translate(0, 0px) rotate(0deg);
+	}
+	50% {
+	opacity:1;
+	-webkit-transform:translate(0, -5px) rotate(0deg);
+	}
+	100% {
+	opacity:0;
+	-webkit-transform:translate(0, -10px) rotate(0deg);
+	}
+}
